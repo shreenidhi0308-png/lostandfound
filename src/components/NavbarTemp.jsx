@@ -53,19 +53,9 @@ function Navbar() {
             Discover
           </NavLink>
 
-          <NavLink
-            to="/recent"
-            className={navClass}
-          >
-            Recent
-          </NavLink>
+         
 
-          <NavLink
-            to="/how"
-            className={navClass}
-          >
-            How it works
-          </NavLink>
+          
 
         </nav>
 
